@@ -7,7 +7,7 @@ Generate and Validate CSRF Tokens to make forms Secure.
 Use the package manager 
 
 ```bash
-
+composer require academy01/csrftoken
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ Use the package manager
 ```php
 require "vendor/autoload.php";
 
-use namespace;
+use Academy01\Csrftoken;;
 
 CsrfToken::generate();
 
