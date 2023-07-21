@@ -1,0 +1,20 @@
+{
+    "name": "academy01/csrftoken",
+    "description": "Simple package to generate and validate csrf Tokens",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Academy01\\Csrftoken\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "'academy01'",
+            "email": "80899303+mhnobakht@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
