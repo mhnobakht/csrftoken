@@ -2,7 +2,7 @@
     "name": "academy01/csrftoken",
     "description": "Simple package to generate and validate csrf Tokens",
     "require": {
-        "php": "^7.3"
+        "php": ">=7.3"
     },
     "license": "MIT",
     "autoload": {
